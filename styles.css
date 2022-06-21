@@ -1,0 +1,28 @@
+body {
+    background-image: url(./resources/background.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.card {
+    float: right;
+    width: 1000px;
+    height: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+    box-shadow: 1px 1px 5px black;
+    border-radius: 24px;
+    /* Center vertically and horizontally */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+
+.logo {
+    border-radius: 24px;
+    margin: 40px;
+    max-width: 30%;
+    height: auto;
+}
