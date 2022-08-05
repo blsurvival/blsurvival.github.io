@@ -549,6 +549,9 @@ iframe{
     display: none;
 }
 
+.arrows {
+    display:none;
+}
 
 }
 
