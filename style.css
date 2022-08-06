@@ -542,6 +542,7 @@ hr {
 /*FOOTER*/
 
 .footer {
+    display: none;
     padding-bottom: 10px;
     position: absolute;
     bottom: 1;
